@@ -1,6 +1,4 @@
-# ssd1963
-
-           *** Модуль контроллера дисплея на базе SSD1963 ***
+# Модуль контроллера дисплея на базе SSD1963
 
 Урезанный программный модуль, в котором использован код из примера:
 https://hubstub.ru/display/137-podklyuchenie-tft-displeya-po-fsmc-k-stm32-na-primere-ssd1963-.html
